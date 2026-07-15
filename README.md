@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jovencio Refuerzo 👋
+# Hello, I'm Jovencio Refuerzo
 
 ### Senior Linux Systems Administrator | Web Hosting Infrastructure Engineer
 
@@ -13,11 +13,11 @@ Building reliable hosting platforms through Linux administration, automation, cl
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm a Senior Linux Systems Administrator and Technical Support Engineer with over **14 years of experience** supporting enterprise infrastructure, Linux servers, web hosting platforms, cloud environments, and customer-facing technical operations.
 
-Throughout my career, I've supported thousands of customers across shared hosting, VPS, dedicated servers, cloud infrastructure, and enterprise WordPress platforms while working with organizations including:
+Throughout my career, I've supported thousands of customers across shared hosting, VPS, dedicated servers, cloud infrastructure, and enterprise WordPress, Drupal ETC. platforms while working with organizations including:
 
 - Think Huge
 - Pantheon Systems
@@ -27,11 +27,11 @@ Throughout my career, I've supported thousands of customers across shared hostin
 - TELUS International
 - Network Solutions
 
-I enjoy solving complex infrastructure problems, documenting technical solutions, improving operational efficiency, and continuously learning new technologies.
+I enjoy solving complex infra challenges, documenting technical knowledge, and driving continuous operational improvements. I take ownership of every issue I work on seriously, approaching problems with accountability, persistence, and a focus on delivering lasting solutions rather than quick fixes. With experience supporting production environments and participating in PagerDuty-driven incident response, I'm comfortable working in high-pressure situations where uptime, clear communication, and timely resolution are critical. I believe in continuous learning and constantly expanding my technical skills to better support reliable, secure, and high-performing infrastructure.
 
 ---
 
-# 🛠 Core Technologies
+# Core Technologies
 
 ### Linux & Systems Administration
 
@@ -94,14 +94,15 @@ I enjoy solving complex infrastructure problems, documenting technical solutions
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Think Huge
 
-Customer Support Specialist
+### Customer Support Specialist
 
-- Providing technical support for VPS hosting, Windows Server, Remote Desktop, networking, virtualization, and hosting services.
-- Assisting customers with infrastructure troubleshooting, server management, connectivity issues, and platform diagnostics.
+- Provide technical support for VPS hosting, Windows Server, Remote Desktop Services (RDP), networking, virtualization, and hosting infrastructure while troubleshooting complex server and connectivity issues.
+- Assist customers with the installation, configuration, and troubleshooting of MetaTrader 4 (MT4) and MetaTrader 5 (MT5), including Expert Advisors (EAs), indicators, trading bots, VPS optimization, and remote trading environments.
+- Investigate platform performance issues, server resource utilization, network latency, and application errors, ensuring timely resolution while maintaining a high level of customer satisfaction.
 
 ---
 
@@ -109,8 +110,8 @@ Customer Support Specialist
 
 Senior Implementation Consultant
 
-- Delivered enterprise WordPress and Drupal solutions for global customers.
-- Implemented CDN, security, caching, DNS, and infrastructure improvements using Fastly.
+- Delivered enterprise WordPress and Drupal solutions for enterprise-level customers, ensuring scalable, secure, and high-performing digital experiences.
+- Implemented CDN, security, caching, DNS, and infrastructure improvements using Fastly, GCP, Circle/CI , Terraform.
 - Worked closely with developers and customer engineering teams to resolve production issues and optimize platform performance.
 
 ---
@@ -153,11 +154,11 @@ Web Hosting Technical Support
 
 ---
 
-# 📂 Portfolio Projects
+# Portfolio Projects (WIP)
 
 This GitHub serves as my technical portfolio where I continuously document projects, technical articles, automation, and real-world troubleshooting experiences.
 
-Current repositories include:
+Current repositories include (WIP):
 
 - Linux Administration
 - Hosting Runbooks
@@ -173,7 +174,7 @@ More repositories will continue to be added as I document my work and learning.
 
 ---
 
-# 📚 Areas of Interest
+# Areas of Interest
 
 - Linux Administration
 - Hosting Infrastructure
@@ -188,11 +189,12 @@ More repositories will continue to be added as I document my work and learning.
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 I'm continuously expanding my knowledge in:
 
-- Infrastructure Automation
+- Ai
+- Infrastructure Automation, mostly in a Windows environment
 - Kubernetes Administration
 - Advanced Linux Performance Tuning
 - Cloud Architecture
@@ -201,17 +203,16 @@ I'm continuously expanding my knowledge in:
 
 ---
 
-# 🎯 Career Goal
+# Career Goal
 
 My goal is to continue building highly available, secure, and scalable hosting and cloud infrastructure while delivering exceptional customer experiences through technical excellence, automation, and continuous improvement.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 - LinkedIn: https://linkedin.com/in/jrefuerzo
 - GitHub: https://github.com/panth-jrefuerzo
 
 Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories as I continue documenting projects, labs, automation scripts, and hosting knowledge.
